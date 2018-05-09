@@ -2,7 +2,7 @@
  LeetCode - Medium
  19. Remove Nth Node From End of List
  
- runtime:  ms,  % beats of swift submissions
+ runtime: 20 ms, 92.59 % beats of swift submissions
  inspire:
  */
 
