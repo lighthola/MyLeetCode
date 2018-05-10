@@ -1,5 +1,5 @@
 /*
- LeetCode - Hard
+ LeetCode - Meduim
  24. Swap Nodes in Pairs
  
  runtime: 12 ms, 100 % beats of swift submissions
