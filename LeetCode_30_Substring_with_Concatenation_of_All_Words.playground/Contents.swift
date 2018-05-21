@@ -1,5 +1,5 @@
 /*
- LeetCode - Medium
+ LeetCode - Hard
  30. Substring with Concatenation of All Words
  
  runtime: 2536 ms, 100 % beats of swift submissions
