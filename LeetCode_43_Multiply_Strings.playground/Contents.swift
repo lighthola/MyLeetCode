@@ -1,5 +1,5 @@
 /*
- LeetCode - Hard
+ LeetCode - Medium
  43. Multiply Strings
  
  runtime: 76 ms, 94.59 % beats of swift submissions
