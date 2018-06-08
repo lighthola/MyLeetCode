@@ -1,5 +1,5 @@
 /*
- LeetCode - Easy
+ LeetCode - Medium
  54. Spiral Matrix
  
  runtime: 12 ms, 94.12 % beats of swift submissions
