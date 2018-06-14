@@ -2,7 +2,7 @@
  LeetCode - Medium
  62. Unique Paths
  
- runtime:  ms,  % beats of swift submissions
+ runtime: 12 ms, 100 % beats of swift submissions
  better ans: https://leetcode.com/problems/unique-paths/discuss/22954/0ms-5-lines-DP-Solution-in-C++-with-Explanations
  */
 
