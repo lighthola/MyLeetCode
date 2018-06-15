@@ -2,7 +2,7 @@
  LeetCode - Hard
  65. Valid Number
  
- runtime: 132 ms, 0 % beats of swift submissions
+ runtime: 128 ms, 9.09 % beats of swift submissions
  reference: https://atedev.wordpress.com/2007/11/23/%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%A4%BA%E5%BC%8F-regular-expression/
  */
 
@@ -13,6 +13,7 @@ class Solution {
         let regex = try! NSRegularExpression(pattern: pattern, options: .caseInsensitive)
         return regex.firstMatch(in: text, options:[],
                                         range: NSMakeRange(0, text.count)) != nil
+//        return NSPredicate(format:"SELF MATCHES %@",argumentArray: [pattern]).evaluate(with: text)
     }
     
     func isNumber(_ s: String) -> Bool {
