@@ -51,3 +51,23 @@ class Solution {
         return target
     }
 }
+
+let a = ListNode(0)
+let b = ListNode(1)
+let c = ListNode(2)
+a.next = b
+b.next = c
+
+let result = Solution().rotateRight(a, 4)
+
+func printLists(_ head: ListNode) {
+    var memo = [head.val]
+    var current = head.next
+    while current != nil {
+        memo.append(current!.val)
+        current = current!.next
+    }
+    print(memo)
+}
+
+printLists(result!)
