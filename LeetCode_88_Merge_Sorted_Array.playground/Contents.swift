@@ -1,5 +1,5 @@
 /*
- LeetCode - Hard
+ LeetCode - Easy
  88. Merge Sorted Array
  
  runtime: 12 ms, 83.87 % beats of swift submissions

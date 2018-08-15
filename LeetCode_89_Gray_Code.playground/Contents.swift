@@ -1,5 +1,5 @@
 /*
- LeetCode - Hard
+ LeetCode - Medium
  89. Gray Code
  
  runtime: 8 ms, 100  % beats of swift submissions
